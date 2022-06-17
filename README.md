@@ -28,3 +28,6 @@ I sought to build this project on the miniconda base image and add layers to it 
 
 You can pull this image from docker hub and run it with the following instruction
 
+Go to the link :
+<https://hub.docker.com/repository/docker/christinemuthee/jupyterlab> and head to christinemuthee/jupyterlab
+To pull the image from docker type : <docker pull christinemuthee/jupyterlab> on your terminal to get ready to build a container from it.
